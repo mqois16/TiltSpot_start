@@ -170,6 +170,7 @@ public class MainActivity extends AppCompatActivity
      * Must be implemented to satisfy the SensorEventListener interface;
      * unused in this app.
      */
+    //success
     @Override
     public void onAccuracyChanged(Sensor sensor, int i) {
     }
