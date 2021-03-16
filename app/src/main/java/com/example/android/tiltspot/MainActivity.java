@@ -158,7 +158,7 @@ public class MainActivity extends AppCompatActivity
         }
 
         if(roll>0){
-            mSpotLeft.setAlpha(roll;
+            mSpotLeft.setAlpha(roll);
         }else {
             mSpotRight.setAlpha(Math.abs(roll));
         }
